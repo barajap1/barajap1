@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Currently working on cost research, interested in Data Visualization and ML. 
+
+### Avid tennis and padel tennis player :tennis:
+
 <!--
 **barajap1/barajap1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
