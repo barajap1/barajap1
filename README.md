@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### Currently working on cost research, interested in Data Visualization and ML. 
+### Currently working as a Data Scientist for a Life Insurace Company, 
+### I am interested in Data Visualization, efficient ways to manipulate data, ML and more. 
 
 ### Avid tennis and padel tennis player :tennis:
 
