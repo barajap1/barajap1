@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Currently working as a Data Scientist for a Life Insurace Company, 
+### Currently working as a Data Scientist for a Life Insurance Company, 
 ### I am interested in Data Visualization, efficient ways to manipulate data, ML and more. 
 
 ### Avid tennis and padel tennis player :tennis:
